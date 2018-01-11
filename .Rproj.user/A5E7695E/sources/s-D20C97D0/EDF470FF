@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515638990256.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EDF470FF",
+    "lastKnownWriteTime" : 1515639040,
+    "last_content_update" : 1515639040665,
+    "path" : "~/git/tuftesque/layouts/partials/meta.html",
+    "project_path" : "layouts/partials/meta.html",
+    "properties" : {
+        "cursorPosition" : "3,89",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

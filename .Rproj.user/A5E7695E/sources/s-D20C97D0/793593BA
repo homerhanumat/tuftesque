@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515639229583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "793593BA",
+    "lastKnownWriteTime" : 1515639457,
+    "last_content_update" : 1515639457053,
+    "path" : "~/git/tuftesque/layouts/partials/footer.html",
+    "project_path" : "layouts/partials/footer.html",
+    "properties" : {
+        "cursorPosition" : "34,103",
+        "scrollLine" : "17"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
